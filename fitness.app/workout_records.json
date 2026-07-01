@@ -1,0 +1,210 @@
+[
+  {
+    "date": "2026-07-01",
+    "profile": {
+      "level": "중급자",
+      "height": 175,
+      "weight": 70,
+      "goal": "근비대",
+      "weekly_days": 6
+    },
+    "workouts": [
+      {
+        "name": "인클라인 덤벨프레스",
+        "category": "상체",
+        "part": "윗가슴",
+        "weight": 32.5,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 10,
+        "calories": 47,
+        "youtube": "https://www.youtube.com/results?search_query=인클라인+덤벨프레스+자세"
+      },
+      {
+        "name": "딥스",
+        "category": "상체",
+        "part": "아래 가슴",
+        "weight": 32.5,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 47,
+        "youtube": "https://www.youtube.com/results?search_query=딥스+자세"
+      }
+    ],
+    "total_calories": 94,
+    "total_minutes": 19
+  },
+  {
+    "date": "2026-07-01",
+    "username": "김상윤",
+    "profile": {
+      "username": "김상윤",
+      "level": "초보자",
+      "height": 176,
+      "weight": 100,
+      "goal": "근력 증가",
+      "weekly_days": 6
+    },
+    "workouts": [
+      {
+        "name": "벤치프레스",
+        "category": "상체",
+        "group": "가슴",
+        "part": "중간 가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=벤치프레스+자세"
+      }
+    ],
+    "total_calories": 68,
+    "total_minutes": 9
+  },
+  {
+    "date": "2026-07-01",
+    "weekday": "수",
+    "planned_weekday": "수",
+    "username": "김상윤",
+    "profile": {
+      "username": "김상윤",
+      "level": "초보자",
+      "height": 176,
+      "weight": 100,
+      "goal": "근력 증가",
+      "workout_days": [
+        "월",
+        "화",
+        "수",
+        "목",
+        "금",
+        "토",
+        "일"
+      ]
+    },
+    "workouts": [
+      {
+        "name": "숄더프레스 머신",
+        "category": "상체",
+        "group": "어깨",
+        "part": "전면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=숄더프레스+머신+자세"
+      },
+      {
+        "name": "덤벨 숄더프레스",
+        "category": "상체",
+        "group": "어깨",
+        "part": "전면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=덤벨+숄더프레스+자세"
+      },
+      {
+        "name": "사이드 레터럴 레이즈",
+        "category": "상체",
+        "group": "어깨",
+        "part": "측면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=사이드레터럴레이즈+자세"
+      },
+      {
+        "name": "리어 델트 플라이",
+        "category": "상체",
+        "group": "어깨",
+        "part": "후면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=리어델트플라이+자세"
+      }
+    ],
+    "total_calories": 272,
+    "total_minutes": 36
+  },
+  {
+    "date": "2026-07-01",
+    "weekday": "수",
+    "planned_weekday": "월",
+    "username": "김상윤",
+    "profile": {
+      "username": "김상윤",
+      "level": "초보자",
+      "height": 176,
+      "weight": 100,
+      "goal": "근력 증가",
+      "workout_days": [
+        "월",
+        "화",
+        "수",
+        "목",
+        "금"
+      ]
+    },
+    "workouts": [
+      {
+        "name": "벤치프레스",
+        "category": "상체",
+        "group": "가슴",
+        "part": "중간 가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=벤치프레스+자세"
+      },
+      {
+        "name": "인클라인 덤벨프레스",
+        "category": "상체",
+        "group": "가슴",
+        "part": "윗가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=인클라인+덤벨프레스+자세"
+      },
+      {
+        "name": "체스트 프레스 머신",
+        "category": "상체",
+        "group": "가슴",
+        "part": "중간 가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=체스트프레스+머신+자세"
+      }
+    ],
+    "total_calories": 204,
+    "total_minutes": 27
+  }
+]

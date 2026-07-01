@@ -1,0 +1,143 @@
+{
+  "강민구": {
+    "월": []
+  },
+  "김상윤": {
+    "월": [
+      {
+        "name": "벤치프레스",
+        "category": "상체",
+        "group": "가슴",
+        "part": "중간 가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=벤치프레스+자세"
+      },
+      {
+        "name": "인클라인 덤벨프레스",
+        "category": "상체",
+        "group": "가슴",
+        "part": "윗가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=인클라인+덤벨프레스+자세"
+      },
+      {
+        "name": "체스트 프레스 머신",
+        "category": "상체",
+        "group": "가슴",
+        "part": "중간 가슴",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=체스트프레스+머신+자세"
+      }
+    ],
+    "화": [
+      {
+        "name": "랫풀다운",
+        "category": "상체",
+        "group": "등",
+        "part": "광배근",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=랫풀다운+자세"
+      },
+      {
+        "name": "시티드 로우",
+        "category": "상체",
+        "group": "등",
+        "part": "등 중앙부",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=시티드로우+자세"
+      },
+      {
+        "name": "덤벨 로우",
+        "category": "상체",
+        "group": "등",
+        "part": "등 중앙부",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=덤벨로우+자세"
+      }
+    ],
+    "수": [
+      {
+        "name": "숄더프레스 머신",
+        "category": "상체",
+        "group": "어깨",
+        "part": "전면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=숄더프레스+머신+자세"
+      },
+      {
+        "name": "덤벨 숄더프레스",
+        "category": "상체",
+        "group": "어깨",
+        "part": "전면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=덤벨+숄더프레스+자세"
+      },
+      {
+        "name": "사이드 레터럴 레이즈",
+        "category": "상체",
+        "group": "어깨",
+        "part": "측면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=사이드레터럴레이즈+자세"
+      },
+      {
+        "name": "리어 델트 플라이",
+        "category": "상체",
+        "group": "어깨",
+        "part": "후면 어깨",
+        "weight": 50.0,
+        "sets": 3,
+        "reps": 10,
+        "rest": 90,
+        "minutes": 9,
+        "calories": 68,
+        "youtube": "https://www.youtube.com/results?search_query=리어델트플라이+자세"
+      }
+    ]
+  }
+}
